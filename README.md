@@ -101,7 +101,7 @@
 <a href="patilsandesh5057@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/sandeshpatil9782">
+<a href="https://instagram.com/sandesh_o22/">
   <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
