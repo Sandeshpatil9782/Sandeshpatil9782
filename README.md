@@ -33,9 +33,7 @@
 
 ### 💻 Programming
 🐍 Python (Pandas, NumPy)   
-🐘 PHP  
 💻 C <br/>
-☕ JAVA <br/>
 🗄️ SQL  
 
 ### 🗄️ Database
