@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sandeshpatil9782/Portfolio/blob/main/SPPBI.pdf" target="_blank">
+  <a href="https://github.com/Sandeshpatil9782/Portfolio/blob/main/Sandesh_Patil.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🚀_VIEW%20&%20DOWNLOAD%20CV-0D3B66?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=0D3B66&logoWidth=25" />
   </a>
 </p>
@@ -32,7 +32,7 @@
 ✔️ Statistical Analysis  
 
 ### 💻 Programming
-🐍 Python (Pandas, NumPy)   
+🐍 Python (Pandas, NumPy,Matplotlib,Seaborn)   
 💻 C <br/>
 🗄️ SQL  
 
@@ -62,7 +62,8 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
