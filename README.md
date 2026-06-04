@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sandeshpatil9782/Portfolio/blob/main/Sandesh_Patil.pdf" target="_blank">
+  <a href="https://github.com/Sandeshpatil9782/Sandeshpatil9782/blob/main/Sandesh_Patil.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🚀_VIEW%20&%20DOWNLOAD%20CV-0D3B66?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=0D3B66&logoWidth=25" />
   </a>
 </p>
@@ -150,7 +150,9 @@ Bengluru, Karnataka, India
 
 </details>
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/Sandeshpatil9782/Sandeshpatil9782/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ⭐ *Turning raw data into meaningful insights.*
