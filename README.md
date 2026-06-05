@@ -34,7 +34,6 @@ I am a Data Analyst enthusiast with a strong foundation in Data Analysis, Data V
 Bengluru, Karnataka, India
 
 ---
----
 ### 🎓 Education
 ![BCA](https://img.shields.io/badge/BCA-Bachelor%20of%20Computer%20Applications-blue?style=for-the-badge&logo=book)<br>
 [![College](https://img.shields.io/badge/Govindram%20Seksaria%20Science%20College-tilakwadi%2C%20Belgaum-orange?style=for-the-badge&logo=university)](https://www.gssbgm.edu.in/)<br>
@@ -125,6 +124,7 @@ Bengluru, Karnataka, India
 
 [![Sandesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeshpatil9782&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
