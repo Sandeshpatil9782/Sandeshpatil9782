@@ -1,10 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sandesh%20Patil&fontSize=40&fontColor=ffffff" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sandesh Patil</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-🚀 Passionate about Data Analysis, Visualization and Business Intelligence
+🚀 Turning raw data into meaningful business insights using Data Analytics & BI tools
 </p>
+
+
+<p align="center">
+  <a href="https://sandeshpatil9782.github.io/Quiz-Game/" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20Mini%20Quiz%20Game-FF5722?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Sandeshpatil9782/Sandeshpatil9782/blob/main/Sandesh_Patil.pdf" target="_blank">
@@ -149,10 +160,5 @@ Bengluru, Karnataka, India
   - 🚀 Aspiring **Data Analyst** focused on transforming data into actionable insights
 
 </details>
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Sandeshpatil9782/Sandeshpatil9782/blob/output/github-contribution-grid-snake.svg)
----
 
 ⭐ *Turning raw data into meaningful insights.*
