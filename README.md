@@ -11,20 +11,24 @@
 
 
 <p align="center">
-  <a href="https://sandeshpatil9782.github.io/Quiz-Game/" target="_blank">
-    <img src="https://img.shields.io/badge/🧠%20Mini%20Quiz%20Game-FF5722?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/Sandeshpatil9782/Sandeshpatil9782/blob/main/Sandesh_Patil.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🚀_VIEW%20&%20DOWNLOAD%20CV-0D3B66?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=0D3B66&logoWidth=25" />
   </a>
 </p>
 
----
 
+---
+## 🧠 Welcome!
+
+If you're visiting my profile, take a moment to try my Mini Quiz Game and test your knowledge!
+
+<p align="center">
+  <a href="https://sandeshpatil9782.github.io/Quiz-Game/" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20Mini%20Quiz%20Game-FF5722?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+</p>
+
+---
 ## 👨‍💻 About Me
 
 I am a Data Analyst enthusiast with a strong foundation in Data Analysis, Data Visualization, and Business Intelligence. I work with Python, SQL, Excel, and Power BI to clean, transform, and analyze data, uncover meaningful insights, and support data-driven decision-making. I have experience in Exploratory Data Analysis (EDA), statistical analysis, dashboard development, and creating interactive reports that help visualize business performance effectively.
