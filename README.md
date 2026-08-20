@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sandesh%20Patil&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sandesh Patil</h1>
+<h1 align="center">Hi 👋, <br/>I'm Sandesh Patil</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
@@ -108,7 +108,7 @@ Bengluru, Karnataka, India
 
 ## 📂 Featured Projects
 
-📊 **Sales Prediction for Telecom Sector**
+📊 **Telecom Sales Performance Analysis**
 
 * Developed interactive **Power BI dashboards** to analyze sales performance and business metrics.
 * Tracked **KPIs, revenue trends, and customer insights** for data-driven decision-making.
@@ -118,9 +118,9 @@ Bengluru, Karnataka, India
 * Performed **Exploratory Data Analysis (EDA)** using Python, Pandas, and NumPy.
 * Applied **customer segmentation techniques** to identify distinct customer groups and behavioral patterns.
 
-📈 **Excel Business Dashboard**
+📈 **Superstore Sales Analysis**
 
-* Built interactive **business dashboards** using Excel Pivot Tables, Charts, and KPIs.
+* Built interactive **Excel Dashboards** using Excel Pivot Tables, Charts, and KPIs.
 * Generated actionable insights for performance monitoring and reporting.
 
 ---
