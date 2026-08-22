@@ -130,11 +130,9 @@ Bengluru, Karnataka, India
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshpatil9782&theme=tokyonight"/>
-
+  
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sandeshpatil9782&theme=tokyonight"/>
 </p>
 
 ---
