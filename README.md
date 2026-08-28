@@ -125,8 +125,12 @@ Bengluru, Karnataka, India
 
 ---
 ## 📈 Contribution Graph
-
-[![Sandesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeshpatil9782&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sandeshpatil9782/Sandeshpatil9782/output/activity-graph.svg"
+    alt="Sandesh's GitHub Activity Graph"
+  />
+</p>
 
 ---
 ## 📊 GitHub Stats
