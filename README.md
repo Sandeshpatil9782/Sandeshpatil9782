@@ -2,8 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sandesh%20Patil&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, <br/>I'm Sandesh Patil</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <br/>I'm Sandesh Patil</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+%7C+Pandas+%7C+NumPy;SQL+%7C+Joins+%7C+CTEs+%7C+Window+Functions;Data+Cleaning+%7C+EDA+%7C+Statistical+Analysis;Power+BI+%7C+Dashboards+%7C+Data+Visualization;Excel+%7C+Advanced+Formulas+%7C+Data+Analysis;Business+Insights+%7C+Data-Driven+Decision+Making" alt="Data Analyst Skills" />
+</p>
 
 <p align="center">
 🚀 Turning raw data into meaningful business insights using Data Analytics & BI tools
